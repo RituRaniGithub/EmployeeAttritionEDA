@@ -7,10 +7,10 @@ The dataset used for this analysis contains employee information, including age,
 
 ###### Project Overview:
 
-The project will utilize SQL queries to explore the dataset and analyze employee attrition patterns. Key objectives include:
+The project utilizes SQL queries to explore the dataset and analyze employee attrition patterns. Key objectives include:
 
-Analyzing the attrition rate based on various employee attributes.
-Identifying departments and job roles with the highest attrition rates.
-Examining the relationship between job satisfaction and attrition.
-Investigating the impact of work-life balance on employee attrition.
-Exploring the average years of service before employee attrition.
+- Analyzing the attrition rate based on various employee attributes.
+- Identifying departments and job roles with the highest attrition rates.
+- Examining the relationship between job satisfaction and attrition.
+- Investigating the impact of work-life balance on employee attrition.
+- Exploring the average years of service before employee attrition.
