@@ -1,4 +1,5 @@
 # EmployeeAttritionEDA
+![Watson_healthcare](https://github.com/RituRaniGithub/EmployeeAttritionEDA/assets/97839536/01aa282f-f748-4f2f-906f-3ddaea8cfa81)
 
 This project aims to analyze employee attrition in a healthcare organization using SQL. The primary goal is to uncover insights into the factors contributing to employee turnover and identify critical patterns and trends that can assist the organization in making data-driven decisions to reduce attrition.
 
